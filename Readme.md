@@ -20,9 +20,10 @@ Used CappuccinoSDK by
 - AndreNIH
 ## How to
 1. Go to Releases or compile it by yourself -> get the dll
-2. Open Geometry Dash
-3. Inject the dll into GD(using **Cheat Engine** or **GDDLLLoader by adafcaefc** or anything else)
-4. Profit!
+2. Copy all the files from the Assets folder in this repository to GD "Resources" folder
+3. Open Geometry Dash
+4. Inject the dll into GD(using **Cheat Engine** or **GDDLLLoader by adafcaefc** or anything else)
+5. Profit!
 
 P.S. You can also use Stud_PE to make it load every time you open GD
 1. Download Stud_PE
